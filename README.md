@@ -1,6 +1,6 @@
 # TryHackMe — Windows Command Line
 
-**Completed:** 10/15/2026
+**Completed:** 9/29/2026
 
 ## Overview
 In this room I learned the essential Windows commands used to check system information, troubleshoot networks, manage files and disks, and control processes from the command line.
