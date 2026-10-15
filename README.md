@@ -1,5 +1,3 @@
-# windows-command-line-notes
-My notes from the TryHackMe Windows Command Line room.
 # TryHackMe — Windows Command Line
 
 **Completed:** 10/15/2026
