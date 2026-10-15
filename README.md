@@ -37,9 +37,9 @@ In this room I learned the essential Windows commands used to check system infor
 - The command line is faster than the GUI for troubleshooting, and it is also very useful in SOC work and IT help desk work.
 
 ## Screenshot
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/8661633e-f0c6-444f-a444-71de6083406e" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/f9b5348b-f48f-4205-9d03-4d6596d4e18f" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ccb74c97-e1c6-468b-afad-edc93c203927" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/c04e4d84-a233-461b-9360-18ebd44d5c84" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ce9e7b2d-8388-4381-9988-f6de7e76c2fc" /><img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/eb637056-dc7d-4a0b-b91a-59c2fdd15d92" />
 
 
+<img width="1905" height="954" alt="Screenshot 2026-10-15 060933" src="https://github.com/user-attachments/assets/e63b93bc-765c-4db0-922c-d283eb410c71" />
 
 
 
